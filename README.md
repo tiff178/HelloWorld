@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [X] Improve the UI / UX of your app: Text Color
+* [X] Improve the UI / UX of the app: Text Color
 
 ## Video Walkthrough
 
